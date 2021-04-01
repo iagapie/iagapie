@@ -41,7 +41,7 @@ Hi, I'm [Igor Agapie](https://www.iagapie.com/), a passionate self-taught PHP Fu
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagapie&layout=compact" alt="iagapie langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagapie&layout=compact&langs_count=10" alt="iagapie langs" />
 </p>
 <!--
 **iagapie/iagapie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
