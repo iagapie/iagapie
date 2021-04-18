@@ -35,11 +35,11 @@ Hi, I'm [Igor Agapie](https://www.iagapie.com/), a passionate self-taught PHP Fu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
-
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iagapie&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&custom_title=Igor%27s%20GitHub%20stats" alt="iagapie" />
 </p>
-
+-->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagapie&layout=compact&langs_count=10" alt="iagapie langs" />
 </p>
