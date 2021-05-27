@@ -26,6 +26,7 @@ Hi, I'm [Igor Agapie](https://www.iagapie.com/), a passionate self-taught Full S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/symfony/symfony.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/composer/composer.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
