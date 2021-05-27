@@ -14,11 +14,10 @@ Hi, I'm [Igor Agapie](https://www.iagapie.com/), a passionate self-taught Full S
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
@@ -36,6 +35,7 @@ Hi, I'm [Igor Agapie](https://www.iagapie.com/), a passionate self-taught Full S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
 <!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=iagapie&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&custom_title=Igor%27s%20GitHub%20stats" alt="iagapie" />
