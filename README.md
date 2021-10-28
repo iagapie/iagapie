@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<br />
 
 I'm a passionate self-taught Full-Stack Web Developer.
 
